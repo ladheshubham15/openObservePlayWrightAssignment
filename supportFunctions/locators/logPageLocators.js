@@ -1,6 +1,4 @@
 export const logPageLocators = {
-    loginEmail: 'qatest@gmail.com',
-    loginPassWord: 'ComplexSuperman1',
     loginLink: ".login-internal-link",
     submitButton: 'button[type="submit"]:has-text("Login")',
     logsMenuLink: '[data-test="menu-link-\\/logs-item"]',
